@@ -152,9 +152,8 @@ button.cancel:hover {
         background-repeat: no-repeat;
         background-size: contain;
     }
+    
     .card {
         max-width: 350px;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
     }
 }
